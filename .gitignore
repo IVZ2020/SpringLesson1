@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/ZeppelinRemoteNotebooks/
+.idea/aws.xml
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+TMS_Spring_1Lesson.iml
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+pom.xml
+settings.gradle
+src/
+target/
