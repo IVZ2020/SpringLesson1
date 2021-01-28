@@ -15,5 +15,5 @@ gradlew
 gradlew.bat
 pom.xml
 settings.gradle
-src/
 target/
+.idea/vcs.xml
